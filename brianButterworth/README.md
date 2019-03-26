@@ -1,10 +1,18 @@
+# devTaskDec18 #
+
+
+
+### This is a simple test. Relax. Don’t overthink it. ###
+
+
+
 -	This is a simple test. Relax. Don’t overthink it. The question is written from an OOP perspective;
     if OOP isn’t your prefered paradigm please solve the problem in a way that would handle the same
     concerns listed below.
 
 -	We’re looking for good design and demonstration of engineering concepts.
 
-    Functioning code is not a requirement.
+-    Functioning code is not a requirement.
 
 -	In your favourite language and programming paradigm write the following.
 
