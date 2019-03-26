@@ -1,5 +1,8 @@
 # devTaskDec18 #
 
+For an answer, see https://1drv.ms/w/s!AvylRSGUkXTWu1XMcfaS9QGuo2qo
+
+Also see https://docs.google.com/document/d/1YQ7IQq4HRScwowHMPH8yC1xPVgi70y6ChltwE21Fw-s/edit
 
 
 ### This is a simple test. Relax. Don’t overthink it. ###
