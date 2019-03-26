@@ -22,7 +22,6 @@ class TestAll
         }
 
 
-        die();
 
         echo "  -	Write a factory to create two different types of database connections
     -	They don’t have to be real database engines. Make some up, but demonstrate how a factory
